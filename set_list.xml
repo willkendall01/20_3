@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="set-list.css"?>
+<September-concert>
+	<song>
+		<title>Do You Wanna Do Nothing With Me?</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<title>More</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+
+	<song>
+		<title>Make a Move</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+
+	<song>
+		<title>Friend or Enemy</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title>Probably Up</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title>Me and You</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<title>Where It Started From</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<title>Almost Grown</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title>Limbo</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title> The Heartburn Song</title>
+		<artist>Lawrence</artist>
+		<genre>Funk</genre>
+		<year>2018</year>
+	</song>
+</September-concert>
